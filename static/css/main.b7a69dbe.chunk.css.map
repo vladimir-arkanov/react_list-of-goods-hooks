@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,0DACA,CAAA,YACD,CAAA,MAGC,aAAc","file":"main.b7a69dbe.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbody {\n  background-image: url(./Image/back.PNG);\n  height: 100vh;\n}\n\n.list {\n  color: crimson;\n}\n"]}
